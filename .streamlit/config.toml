@@ -1,0 +1,10 @@
+[theme]
+primaryColor = "#E31837"  # UFC Red
+backgroundColor = "#0E0E0E"  # Deep Black
+secondaryBackgroundColor = "#1A1A1A"  # Dark Gray
+textColor = "#FFFFFF"  # White
+font = "sans serif"
+
+[server]
+headless = true
+runOnSave = true
